@@ -756,13 +756,7 @@
     <section class="site-section">
       <h2>Live Sports & Coverage</h2>
       <div class="site-row">
-        <div class="site-card">
-          <div class="site-card-container">
-            <img class="site-logo" loading="lazy" src="https://logo.clearbit.com/sportsline.com?size=200" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sportsline.com&sz=128'" alt="SportsLine logo">
-            <div class="site-card-content"><h3>SportsLine</h3><p>Expert sports analysis and predictions.</p></div>
-            <div class="site-card-action"><a href="https://www.sportsline.com" target="_blank" rel="noopener">Visit</a></div>
-          </div>
-        </div>
+        
 
         <div class="site-card">
           <div class="site-card-container">
@@ -832,6 +826,15 @@
             <div class="site-card-action"><a href="https://www.reebok.com" target="_blank" rel="noopener">Visit</a></div>
           </div>
         </div>
+
+<div class="site-card">
+          <div class="site-card-container">
+            <img class="site-logo" loading="lazy" src="https://logo.clearbit.com/sportsline.com?size=200" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sportsline.com&sz=128'" alt="SportsLine logo">
+            <div class="site-card-content"><h3>SportsLine</h3><p>Expert sports analysis and predictions.</p></div>
+            <div class="site-card-action"><a href="https://www.sportsline.com" target="_blank" rel="noopener">Visit</a></div>
+          </div>
+        </div>
+        
       </div>
     </section>
 
@@ -1075,6 +1078,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
+
 
 
 
