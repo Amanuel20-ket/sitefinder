@@ -81,7 +81,7 @@ body {
   flex-direction: column;
   padding: 1.5rem;
   position: fixed; /* positioned by grid */
-  height: auto;
+  height: stretch;
   box-shadow: 2px 0 6px rgba(0,0,0,0.08);
 }
 
@@ -289,4 +289,5 @@ h1 {
   .main-content { margin-left: 0; padding: 1rem; margin-top: 56px; }
  
 }
+
 
