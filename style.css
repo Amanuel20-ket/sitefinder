@@ -158,7 +158,8 @@ h1 {
 /* Desktop-first responsive breakpoints */
 @media (max-width: 900px) {
   /* Layout */
-  .topbar { display: flex;  }
+  .topbar { display: flex; 
+          top: 0;}
   .sidebar { 
     position: fixed; 
     left: -260px; 
@@ -289,6 +290,7 @@ h1 {
   .main-content { margin-left: 0; padding: 1rem; margin-top: 56px; }
  
 }
+
 
 
 
