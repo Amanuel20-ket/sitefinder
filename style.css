@@ -163,7 +163,7 @@ h1 {
   .sidebar { 
     position: fixed; 
     left: -260px; 
-    top: 56px; 
+    top: 2rem; 
     height: calc(100% - 56px); 
     transition: left 0.25s ease; 
     width: 220px; 
@@ -290,6 +290,7 @@ h1 {
   .main-content { margin-left: 0; padding: 1rem; margin-top: 56px; }
  
 }
+
 
 
 
